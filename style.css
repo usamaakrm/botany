@@ -930,15 +930,6 @@ footer a{
   font-size: 1rem;
   Font-weight: 500;
 }
- .nav__menu{
-  background-color: #587a5f;
-  top: -100%;
-  left: 0;
-  width: 100%;
-  padding: 4rem 0 3rem;
-  transition: .4s;
-}
-
  .nav__link{
    display: inline;
  }
