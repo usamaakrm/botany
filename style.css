@@ -930,7 +930,7 @@ nav__toggle{
  cursor: pointer;
  width: 30px;
  top: 1rem;
- right: 1rem;
+ right: 2rem;
  position: absolute;
  transition: 1s;
 }
@@ -940,7 +940,6 @@ nav__toggle{
   Font-weight: 500;
 }
  .nav__menu{
-  position: fixed;
   background-color: #587a5f;
   top: -100%;
   left: 0;
