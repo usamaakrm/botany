@@ -924,16 +924,7 @@ footer a{
     margin: 0;
     padding: 0;
  }
-nav__toggle{
- font-size: 1.2rem;
- color: white;
- cursor: pointer;
- width: 30px;
- top: 1rem;
- right: 2rem;
- position: absolute;
- transition: 1s;
-}
+
 .nav__logo{
   Margin-top: 1rem;
   font-size: 1rem;
