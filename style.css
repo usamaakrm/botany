@@ -929,6 +929,10 @@ footer a{
   right: 2rem; 
   position: fixed;
 }
+.nav__logo{
+  Margin-top: 1rem;
+  font-size: 1rem;
+}
  .nav__menu{
   position: fixed;
   background-color: #587a5f;
