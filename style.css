@@ -928,10 +928,12 @@ footer a{
   top: 1rem;
   right: 2rem; 
   position: fixed;
+  Cursor: pointer;
 }
 .nav__logo{
   Margin-top: 1rem;
   font-size: 1rem;
+  Font-weight: 500;
 }
  .nav__menu{
   position: fixed;
